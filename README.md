@@ -30,4 +30,4 @@ I am a CSE Student at CVRGU.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkumar-ak&show_icons=true&locale=en" alt="ayushkumar-ak" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar-ak&" alt="ayushkumar-ak" /></p>
+
