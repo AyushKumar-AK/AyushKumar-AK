@@ -10,7 +10,7 @@
 
 ### :woman_technologist: About Me :
 
-I am CSE Student at CVRGU.
+I am a CSE Student at CVRGU.
 
 :telescope: I’m learning frontend and backend for building web applications.
 
