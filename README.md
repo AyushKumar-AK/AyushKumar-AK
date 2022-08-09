@@ -26,3 +26,5 @@ I am CSE Student at CVRGU.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar-ak&show_icons=true&locale=en&layout=compact" alt="ayushkumar-ak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkumar-ak&show_icons=true&locale=en" alt="ayushkumar-ak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar-ak&" alt="ayushkumar-ak" /></p>
