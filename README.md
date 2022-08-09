@@ -18,4 +18,4 @@ I am CSE Student at CVRGU.
 
 :zap: In my free time, I solve DSA problems and read tech articles.
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-770701234)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ayush-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-770701234)
