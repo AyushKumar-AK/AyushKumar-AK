@@ -1,7 +1,8 @@
 <h1>
-  Hey there
+  Hey there, I am Ayush Kumar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<p>I am Ayush Kumar, a web development enthusiast and exploring various domains related to software development.</p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
 </div>
@@ -14,7 +15,7 @@ I am a CSE Student at CVRGU.
 
 :telescope: I’m learning frontend and backend for building web applications. Currently Learning <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Logo" />
 
-:seedling: Exploring different domains related to software development.
+:seedling: All of my projects are available at [My Portfolio](https://www.ayushak.live)
 
 :zap: In my free time, I solve DSA problems and read tech articles.
 
