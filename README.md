@@ -12,7 +12,7 @@
 
 I am a CSE Student at CVRGU.
 
-:telescope: I’m learning frontend and backend for building web applications.
+:telescope: I’m learning frontend and backend for building web applications. Currently Learning <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Logo" />
 
 :seedling: Exploring different domains related to software development.
 
