@@ -4,7 +4,7 @@
 </h1>
 <h3 align="centre">A web development enthusiast and exploring various domains related to software development.</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="200"/>
 </div>
 
 ---
